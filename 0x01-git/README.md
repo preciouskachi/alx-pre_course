@@ -1,1 +1,1 @@
-this is my third readme
+starting to code today, so cool
